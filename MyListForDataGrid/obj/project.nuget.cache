@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qJMixKPJIEjBm417yz7+JhJbcW+npae1PcoAaLrDOBmHRQJADKr5xwu/J7TuMpjQU4auW/vo5JznbJH2kUb5Uw==",
+  "dgSpecHash": "AUiEVLVKbBqNQan7T+/in++mM9AIxQz1dV4uF53VlqJcHkEo5TsjVOHRlQ/KjO7lOI9MmPtTQfDY+XEGSqfNGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\migra\\source\\repos\\MyListForDataGrid\\MyListForDataGrid\\MyListForDataGrid.csproj",
+  "projectFilePath": "C:\\Users\\migra\\source\\repos\\BindingToDataGridW-outDataTable\\BindingToDataGridW-outDataTable\\MyListForDataGrid\\MyListForDataGrid.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\migra\\source\\repos\\MyListForDataGrid\\MyListForDataGrid\\MyListForDataGrid.csproj": {}
+    "C:\\Users\\migra\\source\\repos\\BindingToDataGridW-outDataTable\\BindingToDataGridW-outDataTable\\MyListForDataGrid\\MyListForDataGrid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\migra\\source\\repos\\MyListForDataGrid\\MyListForDataGrid\\MyListForDataGrid.csproj": {
+    "C:\\Users\\migra\\source\\repos\\BindingToDataGridW-outDataTable\\BindingToDataGridW-outDataTable\\MyListForDataGrid\\MyListForDataGrid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\migra\\source\\repos\\MyListForDataGrid\\MyListForDataGrid\\MyListForDataGrid.csproj",
+        "projectUniqueName": "C:\\Users\\migra\\source\\repos\\BindingToDataGridW-outDataTable\\BindingToDataGridW-outDataTable\\MyListForDataGrid\\MyListForDataGrid.csproj",
         "projectName": "MyListForDataGrid",
-        "projectPath": "C:\\Users\\migra\\source\\repos\\MyListForDataGrid\\MyListForDataGrid\\MyListForDataGrid.csproj",
+        "projectPath": "C:\\Users\\migra\\source\\repos\\BindingToDataGridW-outDataTable\\BindingToDataGridW-outDataTable\\MyListForDataGrid\\MyListForDataGrid.csproj",
         "packagesPath": "C:\\Users\\migra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\migra\\source\\repos\\MyListForDataGrid\\MyListForDataGrid\\obj\\",
+        "outputPath": "C:\\Users\\migra\\source\\repos\\BindingToDataGridW-outDataTable\\BindingToDataGridW-outDataTable\\MyListForDataGrid\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
